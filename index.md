@@ -19,8 +19,9 @@ I am still working on my first publication. I am submitting to OCEANS 2025 next 
 I was born and raised in Minot, ND. ETC
 
 
-Email:
+**Email**:
 derrek.perham@unh.edu
-Linkedin:
+
+**Linkedin**:
 https://www.linkedin.com/in/derrek-perham-270830181/
 

@@ -1,5 +1,5 @@
 ---
-# Derrek Perham's Website
+# layout: Derrek Perham
 ---
 # Derrek Perham's Website
 

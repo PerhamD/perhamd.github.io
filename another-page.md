@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Research Section
 
 _Future Work_
 
